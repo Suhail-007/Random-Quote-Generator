@@ -1,2 +1,4 @@
 # Random-Quote-Generator
-Nothing much actually just some Quotes inside of an array.
+Doing some beginner projects to practice js and to build confidence
+it's a simple Random Quote Generator..
+just some quote inside of an array.
